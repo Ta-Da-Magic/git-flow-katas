@@ -14,8 +14,13 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 [Bohemian Rhapsody](song/feb/Bohemian_Rhapsody.md)
 
-### Last Month's Favorites
 
-[Arctic Monkeys] - Fluorescent adolescent
+## Last Month's Favorites
 
-[Queen] - We are the champions
+###[Arctic Monkeys](/writer/arctic_monkeys.md)  
+
+[Fluorescent adolescent](song/jan/fluorescent_adolescent.md)
+
+###[Queen](writer/queen.md) 
+
+[We are the champions](song/jan/we_are_the_champions.md)
