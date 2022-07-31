@@ -17,10 +17,10 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ## Last Month's Favorites
 
-###[Arctic Monkeys](/writer/arctic_monkeys.md)  
+### [Arctic Monkeys](/writer/arctic_monkeys.md)  
 
 [Fluorescent adolescent](song/jan/fluorescent_adolescent.md)
 
-###[Queen](writer/queen.md) 
+### [Queen](writer/queen.md) 
 
 [We are the champions](song/jan/we_are_the_champions.md)
