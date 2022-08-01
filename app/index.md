@@ -24,3 +24,7 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 ### [Queen](writer/queen.md) 
 
 [We are the champions](song/jan/we_are_the_champions.md)
+
+### [The Killers](writer/the_killers) | the.killers@onlyrics.magazine
+
+[Mr. Brightside](song/jan/mr_brightside.md)
